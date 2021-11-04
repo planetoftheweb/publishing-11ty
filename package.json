@@ -1,0 +1,14 @@
+{
+  "name": "publishing-11ty",
+  "version": "1.0.0",
+  "description": "11ty Publishing Sample",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Ray Villalobos",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
