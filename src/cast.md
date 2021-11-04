@@ -33,6 +33,8 @@ Aneirin is the foremost expert of cold climates in planetoids universe-wide, wit
 | **Dream Job Title**            | Private Island Caretaker              |
 | **Singing Voice**              | alto                                  |
 
+{.table}
+
 # Celestia Dristi
 
 ![Celestia Dristi](/images/celestia-dristi_tn.svg)
@@ -52,6 +54,8 @@ As a mobility engineer, Celestia Dristi helps individuals and companies to impro
 | **Job Title**                  | Mobility Engineer                         |
 | **Dream Job Title**            | Mime                                      |
 | **Singing Voice**              | soprano                                   |
+
+{.table}
 
 # Charmaine
 
@@ -73,6 +77,8 @@ Charmaine loves fossils from every society and planet, and helping to piece toge
 | **Dream Job Title**            | Olympian Water Poloist                             |
 | **Singing Voice**              | tenor                                              |
 
+{.table}
+
 # Emmyloo, em
 
 ![Emmyloo, em](/images/emmyloo-em_tn.svg)
@@ -92,6 +98,8 @@ If you look up “lexicography” in the dictionary, you will see a photo of Emm
 | **Job Title**                  | Interplanetary Theoretical Lexicographer     |
 | **Dream Job Title**            | Interplanetary Theoretical Lexicographer     |
 | **Singing Voice**              | soprano                                      |
+
+{.table}
 
 # Gill
 
@@ -113,6 +121,8 @@ Gill carries on generations of tradition in his family as a hydrologist speciali
 | **Dream Job Title**            | Senior Free-floater                      |
 | **Singing Voice**              | bass                                     |
 
+{.table}
+
 # Ichabod
 
 ![Ichabod](/images/ichabod_tn.svg)
@@ -132,6 +142,8 @@ Operations supervisor Ichabod is unwavering in adherence to the perfection of or
 | **Job Title**                  | Operations Supervisor                                                                      |
 | **Dream Job Title**            | Senior Free-floater                                                                        |
 | **Singing Voice**              | falsetto                                                                                   |
+
+{.table}
 
 # Laverne
 
@@ -153,6 +165,8 @@ Laverne holds a degree in theoretical physics from Quantumnus University. Having
 | **Dream Job Title**            | Pilates Instructor              |
 | **Singing Voice**              | alto                            |
 
+{.table}
+
 # Mindigo, Mindigog!o
 
 ![Mindigo, Mindigog!o](/images/mindigo_tn.svg)
@@ -172,6 +186,8 @@ Transportation Technologist Mindigo earned the nickname “MindiGoGo” because 
 | **Job Title**                  | Transportation Technologist   |
 | **Dream Job Title**            | Laser Tag Referee             |
 | **Singing Voice**              | alto                          |
+
+{.table}
 
 # Nalda
 
@@ -193,6 +209,8 @@ Autodidact Nalda began work as a mind reader and universal translator in 2288 wh
 | **Dream Job Title**            | Poet                                              |
 | **Singing Voice**              | alto                                              |
 
+{.table}
+
 # Narf the! Fourth
 
 ![Narf the! Fourth](/images/narf-the-fourth_tn.svg)
@@ -213,6 +231,8 @@ Narf the Fourth (known to friends as ‘Norf’) oversees the manufacturing of a
 | **Dream Job Title**            | Hand Model                                   |
 | **Singing Voice**              | baritone                                     |
 
+{.table}
+
 # Portman
 
 ![Portman](/images/portman_tn.svg)
@@ -231,6 +251,8 @@ No one loves animals, critters, varmints, and beasties as much as Dr. Portman, w
 | **Job Title**                  | Superterrestrial Veterinarian                                                          |
 | **Dream Job Title**            | Superterrestrial Veterinarian Professor                                                |
 | **Singing Voice**              | baritone and falsetto                                                                  |
+
+{.table}
 
 # Seymour
 
@@ -253,6 +275,8 @@ No one loves animals, critters, varmints, and beasties as much as Dr. Portman, w
 | **Dream Job Title**            | Hand Model                           |
 | **Singing Voice**              | bass                                 |
 
+{.table}
+
 # Tomolor
 
 ![Tomolor](/images/tomolor_tn.svg)
@@ -272,6 +296,8 @@ As a professional computer systems analyst, Tomolor has made history in adapting
 | **Job Title**                  | Computer Systems Analyst                                       |
 | **Dream Job Title**            | Children’s Book Author                                         |
 | **Singing Voice**              | baritone                                                       |
+
+{.table}
 
 # Trisaphron
 
@@ -293,6 +319,8 @@ Trisaphron earned a masters degree in practical operations from Omerania Univers
 | **Dream Job Title**            | Mountain Climber                                                                  |
 | **Singing Voice**              | tenor                                                                             |
 
+{.table}
+
 # Two
 
 ![Two](/images/two_tn.svg)
@@ -313,6 +341,8 @@ With growing interest by organizations in expanding their business on multiple p
 | **Dream Job Title**            | Professional Traveler                                                          |
 | **Singing Voice**              | tenor                                                                          |
 
+{.table}
+
 # Violette
 
 ![Violette](/images/violette_tn.svg)
@@ -332,3 +362,5 @@ Violette holds a doctorate degree in Planetary Behaviorism from Fouraluy Univers
 | **Job Title**                  | Planetary Behaviorist                                                  |
 | **Dream Job Title**            | Principle Disco Dancer for the Amethystopia Ballet                     |
 | **Singing Voice**              | mezzo-soprano                                                          |
+
+{.table}
