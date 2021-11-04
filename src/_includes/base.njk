@@ -8,13 +8,7 @@
   </head>
   <body>
     <main class="container">
-     <p><img src="/images/group.svg" alt="StarGazers"></p>
-<p>The Stargazers are members of the <em>Intergalactic Alliance</em> paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.</p>
-<h1>Communication</h1>
-<p>Stargazers are fluent in <strong>JavaScript</strong>, so once you connect to their network, simply type in a message into their console.</p>
-<pre><code class="language-js">console.log(&quot;Take me to your leader&quot;);
-</code></pre>
-
+     {{ content | safe }}
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   </body>
