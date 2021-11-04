@@ -1,18 +1,18 @@
 <nav class="navbar navbar-expand navbar-dark bg-primary mb-3">
   <div class="container">
-    <a href="/" class="navbar-brand">
-      <img src="/images/logo_stargazers_bug.svg" alt="Stargazer Logo" style="max-width:35px;"> StarGazer
+    <a href="{{'/' | url }}" class="navbar-brand">
+      <img src="{{'/images/logo_stargazers_bug.svg' | url}}" alt="Stargazer Logo" style="max-width:35px;"> StarGazer
     </a>
 
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a href="/" class="nav-link">Home</a>
+        <a href="{{'/' | url }}" class="nav-link">Home</a>
       </li>
       <li class="nav-item">
-        <a href="/cast" class="nav-link">Cast</a>
+        <a href="{{'/cast' | url }}" class="nav-link">Cast</a>
       </li>
       <li class="nav-item">
-        <a href="/collectibles" class="nav-link">Collectibles</a>
+        <a href="{{'/collectibles' | url }}" class="nav-link">Collectibles</a>
       </li>
     </ul>
   </div>
